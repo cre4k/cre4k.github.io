@@ -61,7 +61,7 @@
             <li><a href="/">HOME</a></li>
             <li><a href="/tags/">TAGS</a></li>
             <li><a href="/about/">ABOUT</a></li>
-            <!--<li><a href="/search/">SEARCH</a></li> -->
+            <li><a href="/search/">SEARCH</a></li>
         </ul>
     </nav>
 </center>
@@ -71,7 +71,12 @@
 <!-- BODY -->
 <body id="post-index">
     <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
-
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+      diameter: 32,
+      backgroundColor: 'rgb(51,51,51)',
+      textColor: '#fff'
+    })</script>
     <div id="main" role="main">
         <article class="hentry">
 
@@ -87,8 +92,20 @@
                 
               
             </h3>
-
+            
             <hr>
+            <ul>
+  <li><a href="#step-1---viewing-the-built-version-of-your-website">Step 1 - Viewing the built version of your website</a></li>
+  <li><a href="#step-2---using-staticrypt">Step 2 - Using Staticrypt</a></li>
+  <li><a href="#step-3---templating">Step 3 - Templating</a>
+    <ul>
+      <li><a href="#changing-the-template">Changing the template</a></li>
+      <li><a href="#the-script">The script</a></li>
+    </ul>
+  </li>
+  <li><a href="#conclusion">Conclusion</a></li>
+</ul>
+
 
             <!-- POST CONTENT -->
             <div class="entry-content">
