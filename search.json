@@ -1,0 +1,66 @@
+[
+  
+    {
+
+      "title"    : "Hack The Box - Compromised",
+      "url"      : "/hackthebox/Compromised.html",
+      "tags"     : "CTF, Encrypted, Hack The Box, Linux, Hard Box, CVE, LiteCart, Unrestricted File Upload, PHP Disabled Function Bypass, MySQL, Reverse Engineering, Backdoor",
+      "date"     : "Sep 17, 2020 @ 20:58"
+
+    } ,
+  
+    {
+
+      "title"    : "Hack The Box - Passage",
+      "url"      : "/hackthebox/Passage.html",
+      "tags"     : "CTF, Encrypted, Hack The Box, Linux, Medium Box, CVE, Unrestricted File Upload, CuteNews, D-Bus, USBCreator",
+      "date"     : "Sep 09, 2020 @ 13:40"
+
+    } ,
+  
+    {
+
+      "title"    : "Hack The Box - Worker",
+      "url"      : "/hackthebox/Worker.html",
+      "tags"     : "CTF, Encrypted, Hack The Box, Windows, Medium Box, SVN, Azure DevOps, Pipeline",
+      "date"     : "Sep 08, 2020 @ 11:57"
+
+    } ,
+  
+    {
+
+      "title"    : "Hack The Box - Unbalanced",
+      "url"      : "/hackthebox/Unbalanced.html",
+      "tags"     : "CTF, Encrypted, Hack The Box, Linux, Hard Box, Rsync, Encfs, CVE, Squid Proxy, Pi-Hole, XPath Injection, Blind Injection",
+      "date"     : "Aug 29, 2020 @ 14:08"
+
+    } ,
+  
+    {
+
+      "title"    : "Hack The Box - OpenKeyS",
+      "url"      : "/hackthebox/OpenKeyS.html",
+      "tags"     : "CTF, Encrypted, Hack The Box, OpenBSD, Medium Box, CVE, Authentication Bypass",
+      "date"     : "Aug 29, 2020 @ 13:52"
+
+    } ,
+  
+    {
+
+      "title"    : "Encrypting Markdown",
+      "url"      : "/other/2020/08/20/encryptingMarkdown.html",
+      "tags"     : "Test, Article, Encryption",
+      "date"     : "Aug 20, 2020 @ 10:25"
+
+    } ,
+  
+    {
+
+      "title"    : "Markdown Test",
+      "url"      : "/other/2020/08/19/markdownTest.html",
+      "tags"     : "Test, Example",
+      "date"     : "Aug 19, 2020 @ 17:04"
+
+    } 
+  
+]
